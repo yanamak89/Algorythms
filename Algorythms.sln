@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{CCA601D3-2158-4594-B20D-FD0733CBFBF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BigO", "BigO", "{78277224-76CC-4BE2-958F-4CEE90096FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPhoneByLastName", "FindPhoneByLastName\FindPhoneByLastName.csproj", "{7EC81303-CC46-4FA8-BEEE-ACF1CAC5FF3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNameByPhoneNumber", "FindNameByPhoneNumber\FindNameByPhoneNumber.csproj", "{182B59EA-9A29-454E-8D48-7D9CDFC63AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAllPhoneNumbers", "ReadAllPhoneNumbers\ReadAllPhoneNumbers.csproj", "{9D44F591-EC7C-4B51-903F-8ABBD5541E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterPhonesByLetter", "FilterPhonesByLetter\FilterPhonesByLetter.csproj", "{B5CDA531-BC0A-4151-961B-A6850C03A0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA601D3-2158-4594-B20D-FD0733CBFBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA601D3-2158-4594-B20D-FD0733CBFBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA601D3-2158-4594-B20D-FD0733CBFBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA601D3-2158-4594-B20D-FD0733CBFBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC81303-CC46-4FA8-BEEE-ACF1CAC5FF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC81303-CC46-4FA8-BEEE-ACF1CAC5FF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC81303-CC46-4FA8-BEEE-ACF1CAC5FF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC81303-CC46-4FA8-BEEE-ACF1CAC5FF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182B59EA-9A29-454E-8D48-7D9CDFC63AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182B59EA-9A29-454E-8D48-7D9CDFC63AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182B59EA-9A29-454E-8D48-7D9CDFC63AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182B59EA-9A29-454E-8D48-7D9CDFC63AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D44F591-EC7C-4B51-903F-8ABBD5541E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D44F591-EC7C-4B51-903F-8ABBD5541E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D44F591-EC7C-4B51-903F-8ABBD5541E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D44F591-EC7C-4B51-903F-8ABBD5541E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CDA531-BC0A-4151-961B-A6850C03A0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CDA531-BC0A-4151-961B-A6850C03A0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CDA531-BC0A-4151-961B-A6850C03A0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CDA531-BC0A-4151-961B-A6850C03A0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7EC81303-CC46-4FA8-BEEE-ACF1CAC5FF3B} = {78277224-76CC-4BE2-958F-4CEE90096FE6}
+		{182B59EA-9A29-454E-8D48-7D9CDFC63AB5} = {78277224-76CC-4BE2-958F-4CEE90096FE6}
+		{9D44F591-EC7C-4B51-903F-8ABBD5541E8F} = {78277224-76CC-4BE2-958F-4CEE90096FE6}
+		{B5CDA531-BC0A-4151-961B-A6850C03A0EF} = {78277224-76CC-4BE2-958F-4CEE90096FE6}
+	EndGlobalSection
+EndGlobal
